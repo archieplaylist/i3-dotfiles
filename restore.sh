@@ -47,7 +47,7 @@ sudo apt install -y bash-completion bat build-essential curl \
 					xfce4-terminal
 
 xdg-user-dirs-update
-					
+
 cp -rvf backup/.config/* ~/.config/
 cp -rvf backup/.local/* ~/.local/
 cp -rvf backup/.gtkrc-2.0 ~/
@@ -65,4 +65,3 @@ tar -xvf ~/.local/share/icons/Catppuccin-SE.tar.bz2 -C ~/.local/share/icons
 rm -rf ~/.local/share/icons/Catppuccin-SE.tar.bz2
 
 sudo systemctl enable lightdm
-					
