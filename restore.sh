@@ -52,7 +52,7 @@ cp -rvf backup/.config/* ~/.config/
 cp -rvf backup/.local/* ~/.local/
 cp -rvf backup/.gtkrc-2.0 ~/
 
-wget -c -P ~/.local/share/fonts https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip 
+wget -c -P ~/.local/share/fonts https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip
 unzip ~/.local/share/fonts/FiraCode.zip -d ~/.local/share/fonts
 rm ~/.local/share/fonts/FiraCode.zip
 
