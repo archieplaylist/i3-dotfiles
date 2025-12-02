@@ -16,7 +16,7 @@ cp -rf ~/.config/rofi ~/backup/.config/
 cp -rf ~/.config/wallpaper ~/backup/.config/
 cp -rf ~/.gtkrc-2.0 ~/backup
 
-wget -c -P ~/backup/.local/share/fonts https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip 
+wget -c -P ~/backup/.local/share/fonts https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip
 #unzip ~/backup/.local/share/fonts/FiraCode.zip -d ~/backup/.local/share/fonts
 #rm -rvf ~/backup/.local/share/fonts/FiraCode.zip
 
