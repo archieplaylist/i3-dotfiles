@@ -23,7 +23,7 @@ sudo apt install -y bash-completion bat build-essential curl \
 					lxappearance \
 					mpv \
 					nano \
-					neofetch \
+					fastfetch \
 					network-manager-gnome \
 					openssh-server \
 					pavucontrol \
