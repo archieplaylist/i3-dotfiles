@@ -30,7 +30,7 @@ sudo apt install -y bash-completion bat build-essential curl \
 					picom \
 					pipewire \
 					pipewire-pulse \
-					policykit-1-gnome \
+					mate-polkit \
 					rofi \
 					synaptic \
 					thunar \
